@@ -104,4 +104,4 @@ This project demonstrates, hands-on, why password strength rules exist — by ac
 
 ## Author
 
-Areeba Minahil — Cybersecurity Intern, Zynvex Solutions (ZYNVEX-CERT-0984)
+Areeba Minahil — Cybersecurity Intern, Zynvex Solutions
